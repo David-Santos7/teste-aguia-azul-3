@@ -257,14 +257,14 @@ a, li {
 }
 
 .card-video-top { /* Ajuste a classe da tag video para a classe que foi criada */
-    width: 90%;
-    height: auto;
+    width: 100%;
+    height:  100%;
     object-fit: cover;
 }
 
 #habilidade {
-    width: 70%;
-    height: 70%;
+    width: 90%;
+    height: 90%;
     object-fit: cover;
 }
 
