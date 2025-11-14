@@ -7,8 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: './assets/image/template/mackenzie.png', nome: 'Ensino Mackenzie' },
         { src: './assets/image/animalia park.jpg', nome: 'Matrículas' },
         { src: './assets/image/branca-de-neve.png', nome: 'Festa Caipira' },
-        { src: '/assets/image/crianças-unidas.png', nome: 'Estudando Matemática' },
-        { src: '/assets/image/Foto 3.jpg', nome: 'Atividade diferenciada' },
+        { src: './assets/image/crianças-unidas.png', nome: 'Estudando Matemática' },
+        { src: './assets/image/Foto 3.jpg', nome: 'Atividade diferenciada' },
+        { src: './assets/image/chácara-do-tiao.png', nome: 'Atividade diferenciada' },
     ];
 
     let indice = 0; // índice da imagem atual
